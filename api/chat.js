@@ -9,7 +9,7 @@ export const config = { runtime: 'edge' };
 
 const ALLOWED_ORIGINS = [
   // Remplace par ton URL Vercel et ton domaine custom
-  'https://ton-app.vercel.app',
+  'https://foodhub-lilac.vercel.app/',
   'http://localhost:3000',
   'http://localhost:5500',
   'http://127.0.0.1:5500',
